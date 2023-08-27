@@ -94,6 +94,7 @@ class merge():
     with open(merge_path, 'rb') as file:
         encoded_content = file.read().strip()
         decoded_content = base64.b64decode(encoded_content).decode('utf-8')
+        print(decoded_content)
 
     # 进行 加密方式 过滤
     filtered_content = ''
