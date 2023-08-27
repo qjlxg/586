@@ -95,6 +95,22 @@ class merge():
         encoded_content = file.read().strip()
         decoded_content = base64.b64decode(encoded_content).decode('utf-8')
 
+    # 进行 加密方式 过滤
+    filtered_content = ''
+    for line in decoded_content.splitlines():
+        if 'aes-256-cfb' not in line.lower() and 'aes-128-cfb' not in line.lower() and 'rc4-md5' not in line.lower():
+            filtered_content += line + '\n'
+
+    # 将过滤后的节点信息保存到文件
+    filtered_path = './sub/sub_encryption method_filtered.txt'
+    with open(filtered_path, 'w', encoding='utf-8') as file:
+        file.write(filtered_content)
+        
+    # 读取并解码 Base64 编码的节点信息
+    with open(merge_path, 'rb') as file:
+        encoded_content = file.read().strip()
+        decoded_content = base64.b64decode(encoded_content).decode('utf-8')
+
     # 进行 Trojan 节点过滤
     filtered_content = ''
     for line in decoded_content.splitlines():
