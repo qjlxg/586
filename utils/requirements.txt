@@ -1,0 +1,4 @@
+geoip2
+PyYAML
+requests
+beautifulsoup4
