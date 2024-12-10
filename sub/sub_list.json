@@ -113,9 +113,9 @@
   },
   {
     "id": 163,
-    "remarks": "123.57.192.169",
-    "site": "http://123.57.192.169",
-    "url": "http://123.57.192.169:7777/clash/proxies",
+    "remarks": "",
+    "site": "",
+    "url": "https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml",
     "update_method": "auto",
     "enabled": true
   },
