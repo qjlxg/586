@@ -83,7 +83,7 @@
     "id": 159,
     "remarks": "",
     "site": "",
-    "url": "https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml",
+    "url": "https://shadowmere.akiel.dev/api/b64sub",
     "update_method": "auto",
     "enabled": true
   },
@@ -145,9 +145,9 @@
   },
   {
     "id": 167,
-    "remarks": "hkaa0/permalink",
-    "site": "https://github.com/hkaa0/permalink",
-    "url": "https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray",
+    "remarks": "",
+    "site": "",
+    "url": "https://tgscan.onrender.com/sub|https://tgscan.onrender.com/sub10/base64|https://tgscan.onrender.com/sub9/base64",
     "update_method": "auto",
     "enabled": true
   },
