@@ -86,5 +86,13 @@
     "url": "https://proxypool.link/clash/proxies",
     "update_method": "auto",
     "enabled": true
+  },
+  {
+    "id": 179,
+    "remarks": "",
+    "site": "",
+    "url": "https://github.com/lagzian/SS-Collector/raw/refs/heads/main/vmess_tvc_clash.yaml||https://github.com/lagzian/SS-Collector/raw/refs/heads/main/mix_clash.yaml|https://github.com/lagzian/SS-Collector/raw/refs/heads/main/reality_clash.yaml|https://github.com/lagzian/SS-Collector/raw/refs/heads/main/vmess_clash.yaml||https://github.com/lagzian/SS-Collector/raw/refs/heads/main/SS/trinity_clash.yaml|https://github.com/lagzian/SS-Collector/raw/refs/heads/main/SS/VM_TrinityBase|https://github.com/lagzian/SS-Collector/raw/refs/heads/main/SS/TrinityBase",
+    "update_method": "auto",
+    "enabled": true
   }
 ]
