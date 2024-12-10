@@ -1,3 +1,5 @@
-trojan://aee423ce-e4b0-4555-b5b7-486dd0284fd2@185.146.173.34:443?allowInsecure=0&sni=nl1.trojanvpn.xyz&ws=1&wspath=%2F#54%7CRelay_SE-NL_1275
-trojan://telegram-id-privatevpns@13.50.79.149:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#48%7CSE_18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#38%2C39%2C40%2C49%7C%20SE_545
+trojan://aee423ce-e4b0-4555-b5b7-486dd0284fd2@185.146.173.34:443?allowInsecure=0&sni=nl1.trojanvpn.xyz&ws=1&wspath=%2F#54%7CRelay_SE-NL_1344
+vmess://eyJ2IjoiMiIsInBzIjoiNTl88J+HqiBTRV81MzMiLCJhZGQiOiJCYWNrLk1zVjJyYXkub25saW5lIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb2JkaWkuY2ZkL2xpbmt3cyIsImhvc3QiOiJCYWNrLk1zVjJyYXkub25saW5lIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiNTl88J+HqiBTRV81MzIiLCJhZGQiOiIxODUuMTQ2LjE3My4xNTgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vYmRpaS5jZmQvbGlua3dzIiwiaG9zdCI6IiIsInRscyI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#40%2C47%2C49%2C59%7CChatGPT%20%20SE_433
+trojan://telegram-id-privatevpns@13.50.79.149:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#42%2C48%2C54%7Cdisney_netflix_SE
