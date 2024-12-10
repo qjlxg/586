@@ -1,45 +1,5 @@
 [
   {
-    "id": 148,
-    "remarks": "pojiezhiyuanjun/2023",
-    "site": "https://github.com/pojiezhiyuanjun/2023",
-    "url": "",
-    "update_method": "change_date",
-    "enabled": false
-  },
-  {
-    "id": 149,
-    "remarks": "Nodefree.org",
-    "site": "https://github.com/Fukki-Z/nodefree",
-    "url": "",
-    "update_method": "change_date",
-    "enabled": true
-  },
-  {
-    "id": 150,
-    "remarks": "mianfeifq/share",
-    "site": "https://github.com/mianfeifq/share",
-    "url": "",
-    "update_method": "page_release",
-    "enabled": false
-  },
-  {
-    "id": 151,
-    "remarks": "oneclash.cc",
-    "site": "https://oneclash.cc",
-    "url": "",
-    "update_method": "change_date",
-    "enabled": false
-  },
-  {
-    "id": 152,
-    "remarks": "wefound.cc",
-    "site": "https://wefound.cc",
-    "url": "",
-    "update_method": "change_date",
-    "enabled": false
-  },
-  {
     "id": 153,
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
