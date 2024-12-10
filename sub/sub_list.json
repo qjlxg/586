@@ -81,9 +81,9 @@
   },
   {
     "id": 159,
-    "remarks": "freenodes/freenodes",
-    "site": "https://github.com/freenodes/freenodes",
-    "url": "https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml",
+    "remarks": "",
+    "site": "",
+    "url": "https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml",
     "update_method": "auto",
     "enabled": true
   },
