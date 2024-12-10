@@ -355,7 +355,7 @@
     "id": 214,
     "remarks": ".YBSub",
     "site": ".YBSub",
-    "url": "https://ghp.ci/https://github.com/qjlxg/YBSub-1/raw/refs/heads/master/sub/share/available",
+    "url": "https://ghp.ci/https://github.com/qjlxg/YBSub-1/raw/refs/heads/master/sub/share/available|https://ghp.ci/https://github.com/qjlxg/YBSub-2/raw/refs/heads/main/sub/share/available|https://ghp.ci/https://github.com/qjlxg/YBSub-3/raw/refs/heads/main/sub/share/available",
     "update_method": "auto",
     "enabled": true
   },
