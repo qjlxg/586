@@ -95,7 +95,7 @@
     "update_method": "auto",
     "enabled": true
   },
-   {
+  {
     "id": 179,
     "remarks": "",
     "site": "",
@@ -103,5 +103,4 @@
     "update_method": "auto",
     "enabled": true
   }
-  
 ]
