@@ -1,4 +1,38 @@
 [
+
+  
+  {
+    "id": 149,
+    "remarks": "tony0392/clash",
+    "site": "https://github.com/tony0392/clash",
+    "url": "https://clash.huiwg.cn/clash/proxies",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 150,
+    "remarks": "tony0392/clash",
+    "site": "https://github.com/tony0392/clash",
+    "url": "https://fetchjiedian.feisu360.xyz/clash/proxies",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 151,
+    "remarks": "tony0392/clash",
+    "site": "https://github.com/tony0392/clash",
+    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 152,
+    "remarks": "tony0392/clash",
+    "site": "https://github.com/tony0392/clash",
+    "url": "https://proxypool.link/clash/proxies",
+    "update_method": "auto",
+    "enabled": true
+  },
   {
     "id": 153,
     "remarks": "tony0392/clash",
