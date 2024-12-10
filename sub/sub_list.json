@@ -4,7 +4,23 @@
     "id": 210,
     "remarks": ".ss",
     "site": ".ss",
-    "url": "https://ghp.ci/https://github.com/qjlxg/ss/raw/refs/heads/master/list_raw.txt",
+    "url": "https://github.com/qjlxg/ss/raw/refs/heads/master/list_raw.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 211,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://github.com/qjlxg/ss/raw/refs/heads/master/list.txt",
+    "update_method": "auto",
+    "enabled": true
+  },
+   {
+    "id": 212,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://github.com/qjlxg/ss/raw/refs/heads/master/list.yml",
     "update_method": "auto",
     "enabled": true
   }
