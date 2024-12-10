@@ -1,5 +1,4 @@
 [
-  
   {
     "id": 210,
     "remarks": ".ss",
@@ -8,7 +7,7 @@
     "update_method": "auto",
     "enabled": true
   },
-   {
+  {
     "id": 211,
     "remarks": ".ss",
     "site": ".ss",
@@ -16,7 +15,7 @@
     "update_method": "auto",
     "enabled": true
   },
-   {
+  {
     "id": 212,
     "remarks": ".ss",
     "site": ".ss",
@@ -24,6 +23,4 @@
     "update_method": "auto",
     "enabled": true
   }
- 
- 
 ]
