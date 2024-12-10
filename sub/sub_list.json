@@ -67,7 +67,7 @@
     "id": 176,
     "remarks": "",
     "site": "",
-    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies|https://proxypool.link/clash/proxies",
+    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
     "update_method": "auto",
     "enabled": true
   },
@@ -83,7 +83,7 @@
     "id": 178,
     "remarks": "",
     "site": "",
-    "url": "",
+    "url": "https://proxypool.link/clash/proxies",
     "update_method": "auto",
     "enabled": true
   }
