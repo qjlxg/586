@@ -67,7 +67,7 @@
     "id": 176,
     "remarks": "",
     "site": "",
-    "url": "https://clash.huiwg.cn/clash/proxies|https://free.iam8.shop/clash/proxies",
+    "url": "https://clash.huiwg.cn/clash/proxies|https://free.iam8.shop/clash/proxies|https://proxypool1999.banyunxiaoxi.icu/clash/proxies|https://proxypool.link/clash/proxies"",
     "update_method": "auto",
     "enabled": true
   },
@@ -75,7 +75,7 @@
     "id": 177,
     "remarks": "",
     "site": "",
-    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
+    "url": ",
     "update_method": "auto",
     "enabled": true
   },
@@ -83,7 +83,7 @@
     "id": 178,
     "remarks": "",
     "site": "",
-    "url": "https://proxypool.link/clash/proxies",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   }
