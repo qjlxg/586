@@ -1,9 +1,9 @@
 [
   {
     "id": 149,
-    "remarks": "tony0392/clash",
-    "site": "https://github.com/tony0392/clash",
-    "url": "https://clash.huiwg.cn/clash/proxies|https://fetchjiedian.feisu360.xyz/clash/proxies",
+    "remarks": "",
+    "site": "",
+    "url": "https://clash.huiwg.cn/clash/proxies",
     "update_method": "auto",
     "enabled": true
   },
@@ -27,7 +27,7 @@
     "id": 152,
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
-    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies|https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml",
+    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
     "update_method": "auto",
     "enabled": true
   },
@@ -43,7 +43,7 @@
     "id": 154,
     "remarks": "peasoft/NoMoreWalls",
     "site": "https://github.com/peasoft/NoMoreWalls",
-    "url":"https://proxypool1999.banyunxiaoxi.icu/clash/proxies|https://proxypool.link/clash/proxies|https://shadowmere.akiel.dev/api/b64sub",
+    "url":"https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
     "update_method": "auto",
     "enabled": true
   },
@@ -73,9 +73,9 @@
   },
   {
     "id": 158,
-    "remarks": "mfuu/v2ray",
-    "site": "https://github.com/mfuu/v2ray",
-    "url": "",
+    "remarks": "",
+    "site": "",
+    "url": "https://fetchjiedian.feisu360.xyz/clash/proxies",
     "update_method": "auto",
     "enabled": true
   },
@@ -83,7 +83,7 @@
     "id": 159,
     "remarks": "",
     "site": "",
-    "url": "",
+    "url": "https://proxypool.link/clash/proxies",
     "update_method": "auto",
     "enabled": true
   },
@@ -107,7 +107,7 @@
     "id": 162,
     "remarks": "",
     "site": "",
-    "url": "",
+    "url": "https://shadowmere.akiel.dev/api/b64sub",
     "update_method": "auto",
     "enabled": true
   },
@@ -547,7 +547,7 @@
     "id": 217,
     "remarks": ".ss",
     "site": ".ss",
-    "url": "",
+    "url": "https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml",
     "update_method": "auto",
     "enabled": true
   }
