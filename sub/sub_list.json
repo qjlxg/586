@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": 174,
     "remarks": ".ss",
     "site": ".ss",
@@ -7,7 +7,7 @@
     "update_method": "auto",
     "enabled": true
   },
- {
+  {
     "id": 175,
     "remarks": ".ss",
     "site": ".ss",
@@ -23,7 +23,7 @@
     "update_method": "auto",
     "enabled": true
   },
- {
+  {
     "id": 171,
     "remarks": "",
     "site": "",
@@ -63,7 +63,7 @@
     "update_method": "auto",
     "enabled": true
   },
- {
+  {
     "id": 176,
     "remarks": "",
     "site": "",
@@ -71,7 +71,7 @@
     "update_method": "auto",
     "enabled": true
   },
-{
+  {
     "id": 177,
     "remarks": "",
     "site": "",
@@ -79,7 +79,7 @@
     "update_method": "auto",
     "enabled": true
   },
- {
+  {
     "id": 178,
     "remarks": "",
     "site": "",
