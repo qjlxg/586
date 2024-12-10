@@ -374,5 +374,14 @@
     "url": "https://github.com/qjlxg/YBSub-3/raw/refs/heads/main/sub/share/ss|https://github.com/qjlxg/YBSub-3/raw/refs/heads/main/sub/share/ssr|https://github.com/qjlxg/YBSub-3/raw/refs/heads/main/sub/share/tr|https://github.com/qjlxg/YBSub-3/raw/refs/heads/main/sub/share/v2",
     "update_method": "auto",
     "enabled": true
+  },
+  {
+    "id": 217,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml",
+    "update_method": "auto",
+    "enabled": true
   }
+  
 ]
