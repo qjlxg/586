@@ -3,7 +3,7 @@
     "id": 149,
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
-    "url": "https://clash.huiwg.cn/clash/proxies",
+    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies|https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml|https://clash.huiwg.cn/clash/proxies|https://fetchjiedian.feisu360.xyz/clash/proxies|https://proxypool1999.banyunxiaoxi.icu/clash/proxies|https://proxypool.link/clash/proxies|https://shadowmere.akiel.dev/api/b64sub"",
     "update_method": "auto",
     "enabled": true
   },
@@ -11,7 +11,7 @@
     "id": 150,
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
-    "url": "https://fetchjiedian.feisu360.xyz/clash/proxies",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   },
@@ -19,7 +19,7 @@
     "id": 151,
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
-    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   },
@@ -27,7 +27,7 @@
     "id": 152,
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
-    "url": "https://proxypool.link/clash/proxies",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   },
@@ -35,7 +35,7 @@
     "id": 153,
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
-    "url": "https://raw.githubusercontent.com/tony0392/clash/main/clash.yaml",
+    "url": "https://github.com/0xJins/x.sub/raw/main/trial|https://github.com/peasoft/NoMoreWalls/raw/master/list.txt"|https://raw.githubusercontent.com/tony0392/clash/main/clash.yaml",
     "update_method": "auto",
     "enabled": true
   },
@@ -43,7 +43,7 @@
     "id": 154,
     "remarks": "peasoft/NoMoreWalls",
     "site": "https://github.com/peasoft/NoMoreWalls",
-    "url": "https://github.com/peasoft/NoMoreWalls/raw/master/list.txt",
+    "url": ",
     "update_method": "auto",
     "enabled": true
   },
@@ -51,7 +51,7 @@
     "id": 155,
     "remarks": "0xJins/x.sub",
     "site": "https://github.com/0xJins/x.sub",
-    "url": "https://github.com/0xJins/x.sub/raw/main/trial",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   },
@@ -59,7 +59,7 @@
     "id": 156,
     "remarks": "hsb4657/v2ray",
     "site": "https://github.com/hsb4657/v2ray",
-    "url": "https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   },
@@ -67,7 +67,7 @@
     "id": 157,
     "remarks": "Lewis-1217/FreeNodes",
     "site": "https://github.com/Lewis-1217/FreeNodes",
-    "url": "https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1|https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2",
+    "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray|https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1|https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2",
     "update_method": "auto",
     "enabled": true
   },
@@ -75,7 +75,7 @@
     "id": 158,
     "remarks": "mfuu/v2ray",
     "site": "https://github.com/mfuu/v2ray",
-    "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   },
@@ -83,7 +83,7 @@
     "id": 159,
     "remarks": "",
     "site": "",
-    "url": "https://shadowmere.akiel.dev/api/b64sub",
+    "url": ",
     "update_method": "auto",
     "enabled": true
   },
@@ -107,7 +107,7 @@
     "id": 162,
     "remarks": "",
     "site": "",
-    "url": "https://proxypool1999.banyunxiaoxi.icu/clash/proxies",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   },
@@ -547,7 +547,7 @@
     "id": 217,
     "remarks": ".ss",
     "site": ".ss",
-    "url": "https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml",
+    "url": "",
     "update_method": "auto",
     "enabled": true
   }
