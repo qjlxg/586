@@ -5,7 +5,7 @@
     "site": "https://github.com/tony0392/clash",
     "url": "https://raw.githubusercontent.com/tony0392/clash/main/clash.yaml",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 154,
@@ -13,7 +13,7 @@
     "site": "https://github.com/peasoft/NoMoreWalls",
     "url": "https://github.com/peasoft/NoMoreWalls/raw/master/list.txt",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 155,
@@ -21,7 +21,7 @@
     "site": "https://github.com/0xJins/x.sub",
     "url": "https://github.com/0xJins/x.sub/raw/main/trial",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 156,
@@ -37,7 +37,7 @@
     "site": "https://github.com/Lewis-1217/FreeNodes",
     "url": "https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1|https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 158,
@@ -45,7 +45,7 @@
     "site": "https://github.com/mfuu/v2ray",
     "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 159,
@@ -53,7 +53,7 @@
     "site": "https://github.com/freenodes/freenodes",
     "url": "https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 160,
@@ -61,7 +61,7 @@
     "site": "https://github.com/w1770946466/Auto_proxy",
     "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 161,
@@ -77,7 +77,7 @@
     "site": "https://github.com/zhou-jian-qq/clashFreeNode",
     "url": "https://raw.githubusercontent.com/zhou-jian-qq/clashFreeNode/main/clashNode.yaml",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 163,
@@ -93,7 +93,7 @@
     "site": "https://github.com/NiceVPN123/NiceVPN",
     "url": "https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/https",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 165,
@@ -109,7 +109,7 @@
     "site": "https://github.com/Godying18277/-",
     "url": "https://raw.githubusercontent.com/Godying18277/-/main/shenyingyun",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 167,
@@ -117,7 +117,7 @@
     "site": "https://github.com/hkaa0/permalink",
     "url": "https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray",
     "update_method": "auto",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 168,
