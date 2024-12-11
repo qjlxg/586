@@ -155,7 +155,7 @@
     "id": 186,
     "remarks": ".YBSub",
     "site": ".YBSub",
-    "url": "|https://github.com/mfbpn/mfbpn_nodes/raw/refs/heads/main/Eternity.yaml|https://github.com/imyaoxp/nodes/raw/refs/heads/main/Eternity.yaml|https://github.com/PangTouY00/Auto_proxy/raw/1f100e7042510539ba135cf936c7c86e1ac7092f/output.yaml",
+    "url": "https://github.com/mfbpn/mfbpn_nodes/raw/refs/heads/main/Eternity.yaml|https://github.com/imyaoxp/nodes/raw/refs/heads/main/Eternity.yaml|https://github.com/PangTouY00/Auto_proxy/raw/1f100e7042510539ba135cf936c7c86e1ac7092f/output.yaml",
     "update_method": "auto",
     "enabled": true
   }
