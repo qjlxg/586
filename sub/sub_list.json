@@ -126,5 +126,5 @@
     "url": "https://github.com/peacefish/nodefree/raw/refs/heads/main/sub/proxy.yaml|https://github.com/peacefish/nodefree/raw/refs/heads/main/sub/proxy_cf.yaml|https://github.com/peacefish/nodefree/raw/refs/heads/main/sub/clash_online.yaml",
     "update_method": "auto",
     "enabled": true
-  },
+  }
 ]
