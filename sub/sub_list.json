@@ -1,21 +1,5 @@
 [
-  {
-    "id": 168,
-    "remarks": ".ss",
-    "site": ".ss",
-    "url": "https://ghp.ci/https://github.com/qjlxg/ss3/raw/refs/heads/main/list.txt",
-    "update_method": "auto",
-    "enabled": true
-  },
-  {
-    "id": 169,
-    "remarks": ".ss",
-    "site": ".ss",
-    "url": "https://ghp.ci/https://github.com/qjlxg/ss2/raw/refs/heads/main/freevm/list.txt",
-    "update_method": "auto",
-    "enabled": true
-  },
-  {
+ {
     "id": 170,
     "remarks": ".ss",
     "site": ".ss",
