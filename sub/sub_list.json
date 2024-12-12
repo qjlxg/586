@@ -142,5 +142,13 @@
     "url": "https://github.com/mfbpn/mfbpn_nodes/raw/refs/heads/main/Eternity.yaml|https://github.com/imyaoxp/nodes/raw/refs/heads/main/Eternity.yaml|https://github.com/PangTouY00/Auto_proxy/raw/1f100e7042510539ba135cf936c7c86e1ac7092f/output.yaml",
     "update_method": "auto",
     "enabled": true
+  },
+  {
+    "id": 187,
+    "remarks": ".ss",
+    "site": ".ss",
+    "url": "https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/Airuopcdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/Airuopservername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/Airuopsni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/MrMohebicdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/MrMohebiservername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/MrMohebisni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/WilliamStar007cdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/WilliamStar007servername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/WilliamStar007sni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/anaercdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/anaerservername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/anaersni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/chengaopancdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/chengaopanservername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/chengaopansni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/happysurfingcdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/happysurfingsni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/mahdiblandcdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/mahdiblandservername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/mahdiblandsni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/peasoftcdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/peasoftservername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/peasoftsni.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/tbbatbbcdn.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/tbbatbbservername.yaml|https://github.com/DheMasker/Happy-Surfing/raw/refs/heads/main/tbbatbbsni.yaml",
+    "update_method": "auto",
+    "enabled": true
   }
 ]
